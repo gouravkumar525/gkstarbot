@@ -7,6 +7,9 @@
     "start": "node ./src",
     "notify": "node ./src/tasks/notify",
     "test": "standard"
+  "engines": {
+    "node": "10.16.3"
+	"npm":"6.9.0"
   },
   "author": {
     "email": "creager@heroku.com",
